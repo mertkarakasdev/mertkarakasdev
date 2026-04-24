@@ -1,20 +1,52 @@
-## 🇹🇷 Merhaba, ben Mert! &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🇬🇧 Hi, I'm Mert!
+<h1 align="center">Mert Karakaş</h1>
+<p align="center">Full Stack Web Developer &amp; Graphic Designer — Antalya</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/mertkarakasdev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tugrulmertkarakas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🇹🇷 Türkçe
+<details open>
+<summary>🇹🇷 Türkçe</summary>
 
-**Full Stack Web Geliştirici & Grafik Tasarımcı** — Antalya, Türkiye
+<br>
 
-2020'den beri freelance çalışıyorum. Yerel işletmeler ve yurt dışı müşteriler için web siteleri, web uygulamaları ve marka kimliği tasarımları geliştiriyorum. Hem geliştirici hem tasarımcı kimliğimle projeleri fikir aşamasından yayına kadar yönetiyorum.
+2020'den beri freelance çalışıyorum. Yerel işletmeler ve yurt dışı müşteriler için web siteleri, web uygulamaları ve marka kimliği tasarımları geliştiriyorum. Hem geliştirici hem tasarımcı kimliğimle projeleri fikir aşamasından yayına kadar tek başıma yönetiyorum.
+
+**Yaptıklarım:**
+- 🌐 Modern, responsive web siteleri & web uygulamaları
+- ⚙️ Backend servisler & RESTful API geliştirme
+- 🎨 Logo & kurumsal grafik tasarım
+- 📱 Mobil uygulama geliştirme
+
+🔍 Tam zamanlı pozisyonlara açığım — mesaj göndermekten çekinmeyin.
+
+</details>
 
 ---
 
-### 🇬🇧 English
+<details>
+<summary>🇬🇧 English</summary>
 
-**Full Stack Web Developer & Graphic Designer** — Antalya, Turkey
+<br>
 
 Freelancing since 2020. I build websites, web applications, and brand identities for local businesses and international clients. Being both a developer and designer, I manage projects end-to-end — from concept to deployment.
+
+**What I do:**
+- 🌐 Modern, responsive websites & web applications
+- ⚙️ Backend services & RESTful API development
+- 🎨 Logo & corporate graphic design
+- 📱 Mobile application development
+
+🔍 Open to full-time opportunities — feel free to reach out.
+
+</details>
 
 ---
 
@@ -29,14 +61,3 @@ Freelancing since 2020. I build websites, web applications, and brand identities
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
----
-
-### 📫 İletişim / Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mertkarakasdev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tugrulmertkarakas@gmail.com)
-
----
-
-> 🔍 Tam zamanlı pozisyonlara açığım. &nbsp;|&nbsp; Open to full-time opportunities.
