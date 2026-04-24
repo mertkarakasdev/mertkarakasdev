@@ -24,6 +24,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
+---
+
 <details open>
 <summary>🇹🇷 Türkçe</summary>
 
