@@ -5,6 +5,14 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mertkarakasdev&color=6E40C9&style=flat&label=Profile+Views" alt="Profile Views"/>
   &nbsp;
+  <img src="https://img.shields.io/github/followers/mertkarakasdev?style=flat&logo=github&label=Followers&color=6E40C9&logoColor=white" alt="Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/mertkarakasdev?style=flat&logo=github&label=Total+Stars&color=6E40C9&logoColor=white&affiliations=OWNER%2CCOLLABORATOR" alt="Total Stars"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/forks/mertkarakasdev?style=flat&logo=github&label=Total+Forks&color=6E40C9&logoColor=white" alt="Total Forks"/>
+</div>
+
+<div align="center">
   <a href="https://linkedin.com/in/mertkarakasdev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
