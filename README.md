@@ -1,8 +1,20 @@
-# Merhaba, ben Mert 👋
+## 🇹🇷 Merhaba, ben Mert! &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🇬🇧 Hi, I'm Mert!
+
+---
+
+### 🇹🇷 Türkçe
+
+**Full Stack Web Geliştirici & Grafik Tasarımcı** — Antalya, Türkiye
+
+2020'den beri freelance çalışıyorum. Yerel işletmeler ve yurt dışı müşteriler için web siteleri, web uygulamaları ve marka kimliği tasarımları geliştiriyorum. Hem geliştirici hem tasarımcı kimliğimle projeleri fikir aşamasından yayına kadar yönetiyorum.
+
+---
+
+### 🇬🇧 English
 
 **Full Stack Web Developer & Graphic Designer** — Antalya, Turkey
 
-5+ years of freelance experience building websites, web apps, and brand identities for local businesses and international clients.
+Freelancing since 2020. I build websites, web applications, and brand identities for local businesses and international clients. Being both a developer and designer, I manage projects end-to-end — from concept to deployment.
 
 ---
 
@@ -20,20 +32,11 @@
 
 ---
 
-### 🚀 What I Do
-
-- **Web Development** — Modern, responsive websites & web apps
-- **Full Stack** — Frontend + Backend + Deployment end-to-end
-- **Graphic Design** — Logo & brand identity design
-- **Mobile** — Mobile application development
-
----
-
-### 📫 Let's connect
+### 📫 İletişim / Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mertkarakasdev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tugrulmertkarakas@gmail.com)
 
 ---
 
-> 🔍 Currently open to full-time opportunities in software development.
+> 🔍 Tam zamanlı pozisyonlara açığım. &nbsp;|&nbsp; Open to full-time opportunities.
