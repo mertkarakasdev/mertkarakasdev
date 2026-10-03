@@ -16,9 +16,9 @@ SATIRLAR  = [
     ("Growth",   "Google Ads · Google Business · SEO"),
 ]
 DUGMELER = [
-    ("website",  "MERTKARAKASDEV.GITHUB.IO", 250),
-    ("linkedin", "LINKEDIN",                 150),
-    ("email",    "EMAIL",                    120),
+    ("website",  "mertkarakasdev.github.io", 211),
+    ("linkedin", "linkedin",                 107),
+    ("email",    "email",                     92),
 ]
 
 FONT = "'Helvetica Neue', Helvetica, Arial, sans-serif"
