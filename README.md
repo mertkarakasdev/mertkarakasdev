@@ -1,124 +1,87 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mert+%F0%9F%91%8B;Full+Stack+Web+Developer;Graphic+Designer;Building+from+idea+to+deployment" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mertkarakasdev&color=6E40C9&style=flat&label=Profile+Views" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/mertkarakasdev?style=flat&logo=github&label=Followers&color=6E40C9&logoColor=white" alt="Followers"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/mertkarakasdev?style=flat&logo=github&label=Total+Stars&color=6E40C9&logoColor=white&affiliations=OWNER%2CCOLLABORATOR" alt="Total Stars"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/forks/mertkarakasdev?style=flat&logo=github&label=Total+Forks&color=6E40C9&logoColor=white" alt="Total Forks"/>
-</div>
+# M E R T &nbsp; K A R A K A Ş
 
-<div align="center">
-  <a href="https://linkedin.com/in/mertkarakasdev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:tugrulmertkarakas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
+**F U L L&nbsp;S T A C K** &nbsp;·&nbsp; **D E S I G N** &nbsp;·&nbsp; **B R A N D I N G** &nbsp;·&nbsp; **S E O**
+
+<br>
+
+[![Website](https://img.shields.io/badge/mertkarakasdev.github.io-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://mertkarakasdev.github.io)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mertkarakasdev)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tugrulmertkarakas@gmail.com)
+
 </div>
 
 <br>
 
----
+## From idea to deployment.
 
-<details open>
-<summary><b>🇹🇷 Türkçe</b></summary>
+<sub>FULL STACK DEVELOPMENT &nbsp;·&nbsp; GRAPHIC DESIGN &nbsp;·&nbsp; BRAND IDENTITY &nbsp;·&nbsp; SEO</sub>
 
 <br>
 
-> 2020'den beri freelance çalışan **Full Stack Web Geliştirici & Grafik Tasarımcı**'yım.
-> Yerel işletmeler ve yurt dışı müşteriler için web siteleri, web uygulamaları ve marka kimliği tasarımları geliştiriyorum.
-> Hem geliştirici hem tasarımcı kimliğimle projeleri **fikir aşamasından yayına kadar** tek başıma yönetiyorum.
+**Frontend** &nbsp;&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Vue.js &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS
 
-| | |
-|---|---|
-| 🌐 | Modern, responsive web siteleri & uygulamalar |
-| ⚙️ | Backend servisler & RESTful API geliştirme |
-| 🎨 | Logo & kurumsal grafik tasarım |
-| 📱 | Mobil uygulama geliştirme |
-| 🚀 | Vercel ile CI/CD & deployment yönetimi |
+**Backend** &nbsp;&nbsp;&nbsp; Node.js &nbsp;·&nbsp; Python &nbsp;·&nbsp; REST API
 
-🔍 **Tam zamanlı pozisyonlara açığım** — mesaj göndermekten çekinmeyin.
+**DevOps** &nbsp;&nbsp;&nbsp;&nbsp; Vercel &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Git &nbsp;·&nbsp; GitHub
 
-</details>
+**Design** &nbsp;&nbsp;&nbsp;&nbsp; Figma &nbsp;·&nbsp; Photoshop &nbsp;·&nbsp; Illustrator
 
----
+**Growth** &nbsp;&nbsp;&nbsp;&nbsp; Google Ads &nbsp;·&nbsp; Google Business &nbsp;·&nbsp; SEO
+
+<br>
+
+[![Tech](https://skillicons.dev/icons?i=react,nextjs,vue,js,html,css&theme=dark)](#)
+&nbsp;&nbsp;
+[![Tools](https://skillicons.dev/icons?i=nodejs,python,vercel,docker,git,github&theme=dark)](#)
+&nbsp;&nbsp;
+[![Design](https://skillicons.dev/icons?i=figma,ps,ai&theme=dark)](#)
+
+<br>
+
+![3D contribution graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<br>
 
 <details>
-<summary><b>🇬🇧 English</b></summary>
+<summary><b>🇹🇷 Hakkımda</b></summary>
 
 <br>
 
-> **Full Stack Web Developer & Graphic Designer** freelancing since 2020.
-> I build websites, web applications, and brand identities for local businesses and international clients.
-> Being both a developer and designer, I manage projects **end-to-end** — from concept to deployment.
+2020'den beri freelance çalışan **Full Stack Web Geliştirici & Grafik Tasarımcı**'yım.
+Yerel işletmeler ve yurt dışı müşteriler için web siteleri, web uygulamaları ve
+marka kimliği tasarımları geliştiriyorum. Hem geliştirici hem tasarımcı kimliğimle
+projeleri **fikir aşamasından yayına kadar** tek başıma yönetiyorum.
 
-| | |
-|---|---|
-| 🌐 | Modern, responsive websites & web applications |
-| ⚙️ | Backend services & RESTful API development |
-| 🎨 | Logo & corporate graphic design |
-| 📱 | Mobile application development |
-| 🚀 | CI/CD & deployment management via Vercel |
+- Modern, responsive web siteleri & uygulamalar
+- Backend servisler & RESTful API geliştirme
+- Logo & kurumsal grafik tasarım
+- Mobil uygulama geliştirme
+- Vercel ile CI/CD & deployment yönetimi
 
-🔍 **Open to full-time opportunities** — feel free to reach out.
+**Tam zamanlı pozisyonlara açığım** — mesaj göndermekten çekinmeyin.
 
 </details>
 
----
-
-### 🛠️ Tech Stack
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Deployment & Tools**
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-**Marketing & SEO**
-
-![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
-![Google Business](https://img.shields.io/badge/Google%20Business-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-0F9D58?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
-
-**Design**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mertkarakasdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertkarakasdev&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+<details>
+<summary><b>🇬🇧 About</b></summary>
 
 <br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mertkarakasdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+**Full Stack Web Developer & Graphic Designer** freelancing since 2020.
+I build websites, web applications, and brand identities for local businesses and
+international clients. Being both a developer and designer, I manage projects
+**end-to-end** — from concept to deployment.
+
+- Modern, responsive websites & web applications
+- Backend services & RESTful API development
+- Logo & corporate graphic design
+- Mobile application development
+- CI/CD & deployment management via Vercel
+
+**Open to full-time opportunities** — feel free to reach out.
+
+</details>
