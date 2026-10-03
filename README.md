@@ -1,87 +1,37 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./header-light.svg">
+  <img alt="Tuğrul Mert Karakaş" src="./header-dark.svg" width="100%" />
+</picture>
 
-# M E R T &nbsp; K A R A K A Ş
+<br/>
 
-**F U L L&nbsp;S T A C K** &nbsp;·&nbsp; **D E S I G N** &nbsp;·&nbsp; **B R A N D I N G** &nbsp;·&nbsp; **S E O**
+<div><a href="https://mertkarakasdev.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="./contact-website-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./contact-website-light.svg"><img src="./contact-website-dark.svg" height="40" alt="mertkarakasdev.github.io" /></picture></a>&nbsp;
+<a href="https://www.linkedin.com/in/mertkarakasdev/"><picture><source media="(prefers-color-scheme: dark)" srcset="./contact-linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./contact-linkedin-light.svg"><img src="./contact-linkedin-dark.svg" height="40" alt="LinkedIn" /></picture></a>&nbsp;
+<a href="mailto:tugrulmertkarakas@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./contact-email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./contact-email-light.svg"><img src="./contact-email-dark.svg" height="40" alt="Email" /></picture></a></div>
 
-<br>
+<br/>
 
-[![Website](https://img.shields.io/badge/mertkarakasdev.github.io-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://mertkarakasdev.github.io)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mertkarakasdev)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tugrulmertkarakas@gmail.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./disciplines-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./disciplines-light.svg">
+  <img alt="Disciplines" src="./disciplines-dark.svg" />
+</picture>
 
-</div>
+<br/>
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./tech-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./tech-light.svg">
+  <img alt="Tech Stack" src="./tech-dark.svg" />
+</picture>
 
-## From idea to deployment.
+<div><img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,html,css&theme=dark" height="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nodejs,python&theme=dark" height="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vercel,docker,git,github&theme=dark" height="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" height="20" /></div>
 
-<sub>FULL STACK DEVELOPMENT &nbsp;·&nbsp; GRAPHIC DESIGN &nbsp;·&nbsp; BRAND IDENTITY &nbsp;·&nbsp; SEO</sub>
+<br/>
 
-<br>
-
-**Frontend** &nbsp;&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Vue.js &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS
-
-**Backend** &nbsp;&nbsp;&nbsp; Node.js &nbsp;·&nbsp; Python &nbsp;·&nbsp; REST API
-
-**DevOps** &nbsp;&nbsp;&nbsp;&nbsp; Vercel &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Git &nbsp;·&nbsp; GitHub
-
-**Design** &nbsp;&nbsp;&nbsp;&nbsp; Figma &nbsp;·&nbsp; Photoshop &nbsp;·&nbsp; Illustrator
-
-**Growth** &nbsp;&nbsp;&nbsp;&nbsp; Google Ads &nbsp;·&nbsp; Google Business &nbsp;·&nbsp; SEO
-
-<br>
-
-[![Tech](https://skillicons.dev/icons?i=react,nextjs,vue,js,html,css&theme=dark)](#)
-&nbsp;&nbsp;
-[![Tools](https://skillicons.dev/icons?i=nodejs,python,vercel,docker,git,github&theme=dark)](#)
-&nbsp;&nbsp;
-[![Design](https://skillicons.dev/icons?i=figma,ps,ai&theme=dark)](#)
-
-<br>
-
-![3D contribution graph](./profile-3d-contrib/profile-night-rainbow.svg)
-
-<br>
-
-<details>
-<summary><b>🇹🇷 Hakkımda</b></summary>
-
-<br>
-
-2020'den beri freelance çalışan **Full Stack Web Geliştirici & Grafik Tasarımcı**'yım.
-Yerel işletmeler ve yurt dışı müşteriler için web siteleri, web uygulamaları ve
-marka kimliği tasarımları geliştiriyorum. Hem geliştirici hem tasarımcı kimliğimle
-projeleri **fikir aşamasından yayına kadar** tek başıma yönetiyorum.
-
-- Modern, responsive web siteleri & uygulamalar
-- Backend servisler & RESTful API geliştirme
-- Logo & kurumsal grafik tasarım
-- Mobil uygulama geliştirme
-- Vercel ile CI/CD & deployment yönetimi
-
-**Tam zamanlı pozisyonlara açığım** — mesaj göndermekten çekinmeyin.
-
-</details>
-
-<details>
-<summary><b>🇬🇧 About</b></summary>
-
-<br>
-
-**Full Stack Web Developer & Graphic Designer** freelancing since 2020.
-I build websites, web applications, and brand identities for local businesses and
-international clients. Being both a developer and designer, I manage projects
-**end-to-end** — from concept to deployment.
-
-- Modern, responsive websites & web applications
-- Backend services & RESTful API development
-- Logo & corporate graphic design
-- Mobile application development
-- CI/CD & deployment management via Vercel
-
-**Open to full-time opportunities** — feel free to reach out.
-
-</details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
+  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-green.svg" width="100%" />
+</picture>

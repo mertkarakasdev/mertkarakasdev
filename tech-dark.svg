@@ -1,0 +1,13 @@
+<svg fill="none" viewBox="0 0 650 138" width="650" height="138" xmlns="http://www.w3.org/2000/svg">
+  
+  <text x="0" y="18" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" letter-spacing="0" fill="#8b949e">Frontend</text>
+  <text x="72" y="18" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="300" letter-spacing="0.6" fill="#6e7681">React  ·  Next.js  ·  Vue.js  ·  JavaScript  ·  HTML  ·  CSS</text>
+  <text x="0" y="42" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" letter-spacing="0" fill="#8b949e">Backend</text>
+  <text x="72" y="42" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="300" letter-spacing="0.6" fill="#6e7681">Node.js  ·  Python  ·  REST API</text>
+  <text x="0" y="66" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" letter-spacing="0" fill="#8b949e">DevOps</text>
+  <text x="72" y="66" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="300" letter-spacing="0.6" fill="#6e7681">Vercel  ·  Docker  ·  Git  ·  GitHub</text>
+  <text x="0" y="90" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" letter-spacing="0" fill="#8b949e">Design</text>
+  <text x="72" y="90" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="300" letter-spacing="0.6" fill="#6e7681">Figma  ·  Photoshop  ·  Illustrator</text>
+  <text x="0" y="114" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" letter-spacing="0" fill="#8b949e">Growth</text>
+  <text x="72" y="114" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="300" letter-spacing="0.6" fill="#6e7681">Google Ads  ·  Google Business  ·  SEO</text>
+</svg>
