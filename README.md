@@ -8,7 +8,7 @@
 
 <div><a href="https://mertkarakasdev.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="./contact-website-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./contact-website-light.svg"><img src="./contact-website-dark.svg" height="40" alt="mertkarakasdev.github.io" /></picture></a>&nbsp;
 <a href="https://www.linkedin.com/in/mertkarakasdev/"><picture><source media="(prefers-color-scheme: dark)" srcset="./contact-linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./contact-linkedin-light.svg"><img src="./contact-linkedin-dark.svg" height="40" alt="LinkedIn" /></picture></a>&nbsp;
-<a href="mailto:tugrulmertkarakas@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./contact-email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./contact-email-light.svg"><img src="./contact-email-dark.svg" height="40" alt="Email" /></picture></a></div>
+<a href="mailto:karakasdev@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./contact-email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./contact-email-light.svg"><img src="./contact-email-dark.svg" height="40" alt="Email" /></picture></a></div>
 
 <br/>
 
